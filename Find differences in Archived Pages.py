@@ -1,3 +1,9 @@
+"""
+Super simple - make it better doing something smarter
+
+"""
+
+
 import urllib, difflib
 from bs4 import BeautifulSoup
 
