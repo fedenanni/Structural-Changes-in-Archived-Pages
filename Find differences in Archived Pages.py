@@ -1,4 +1,3 @@
-from readability.readability import Document
 import urllib, difflib
 from bs4 import BeautifulSoup
 
